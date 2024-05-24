@@ -1,1 +1,0 @@
-This is a file to undresetant how git revert works
